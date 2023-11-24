@@ -1,6 +1,6 @@
 to install dependencies: 
 ```bash 
-node install
+npm install
 ```
 
 to start the server: 
