@@ -8,13 +8,14 @@ to start the server:
 node app.js
 ```
 
+(In a powershell environment)
 to call the server and make the POST: 
 ```ps1
 Invoke-Expression -Command (Get-Content -Raw -Path ".\ps.ps1")
 ```
 
 or:
-```bash 
+```ps1 
 $headers = @{
     "Content-Type" = "application/json"
 }
