@@ -1,0 +1,31 @@
+{
+  "content": [
+    {
+      "role": "user",
+      "content": "hi!"
+    },
+    {
+      "role": "assistant",
+      "content": "Contatta operatore"
+    },
+    {
+      "role": "user",
+      "content": "hi!"
+    },
+    {
+      "role": "assistant",
+      "content": "Contatta operatore"
+    },
+    {
+      "role": "user",
+      "content": "Ciao Davide!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ciao Davide!"
+    }
+  ],
+  "opt": "Davide",
+  "isPrivate": false,
+  "personaID": "cff69d42-1841-41fa-a12a-72eeb92590bb"
+}
