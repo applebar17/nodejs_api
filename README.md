@@ -1,3 +1,8 @@
+to install dependencies: 
+```bash 
+node install
+```
+
 to start the server: 
 ```bash 
 node app.js
