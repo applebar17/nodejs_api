@@ -2,7 +2,7 @@
   "content": [
     {
       "role": "user",
-      "content": "hi!"
+      "content": "Ciao Davide!"
     },
     {
       "role": "assistant",
@@ -10,7 +10,7 @@
     },
     {
       "role": "user",
-      "content": "hi!"
+      "content": "Potresti aiutarmi"
     },
     {
       "role": "assistant",
@@ -18,11 +18,19 @@
     },
     {
       "role": "user",
-      "content": "Ciao Davide!"
+      "content": "Potresti aiutarmi"
     },
     {
       "role": "assistant",
-      "content": "Ciao Davide!"
+      "content": "Potresti aiutarmi"
+    },
+    {
+      "role": "user",
+      "content": "Potresti aiutarmi"
+    },
+    {
+      "role": "assistant",
+      "content": "Contatta operatore"
     }
   ],
   "opt": "Davide",

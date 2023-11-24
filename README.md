@@ -3,9 +3,9 @@ to start the server:
 node app.js
 ```
 
-the call the server: 
-```bash 
-bash ps.bash
+to call the server and make the POST: 
+```ps1
+Invoke-Expression -Command (Get-Content -Raw -Path ".\ps.ps1")
 ```
 
 or:
